@@ -9,3 +9,5 @@
 
 "Conflict created"
 
+"half done feature" 
+"this was a mistake" 
